@@ -1,6 +1,5 @@
 # Wall Smashers - Brick Breaker Game
 
-## Overview
 
 **Wall Smashers** is a classic "Brick Breaker" game built using HTML5, JavaScript, and the `<canvas>` element. The player controls a paddle at the bottom of the screen to bounce a ball and break bricks positioned at the top. The game continues until all bricks are destroyed or the ball falls past the paddle.
 
